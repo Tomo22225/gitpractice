@@ -3,3 +3,6 @@ add
 commit
 log
 show
+status
+checkout
+branch
